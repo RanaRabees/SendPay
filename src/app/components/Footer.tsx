@@ -12,7 +12,7 @@ export default function Footer() {
     <footer className="bg-gray-100 p-6 md:p-10 mt-10 w-full">
       <div className="max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-start">
         <div className="md:w-1/3 mb-6 md:mb-0">
-          <div className="hidden md:flex items-center">
+          <div className="flex items-center">
             <Image
               src="/logo.png"
               alt="Sendpay Logo"
